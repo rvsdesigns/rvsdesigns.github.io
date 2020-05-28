@@ -1,2 +1,0 @@
-# rvsdesigns.io
-Professional Website
