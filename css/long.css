@@ -2,12 +2,12 @@ header {
 	text-align:centre;
 	background-color: #000000;
 	background-size:100%;
-	padding:0px;
+	padding:50px;
 }
 .head img{
-	width: 97%;
+	width: 100%;
 	height: actual;
-	padding: 0 1.5% 2% 1.5%;
+	padding: 0;
 }
 
 nav a{
